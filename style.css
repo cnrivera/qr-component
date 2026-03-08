@@ -1,5 +1,10 @@
 body {
-    background-color: #D5E1EF
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh;
+    margin: 0
 }
 
 .wrapper {
