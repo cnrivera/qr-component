@@ -1,0 +1,58 @@
+body {
+    background-color: #D5E1EF
+}
+
+.wrapper {
+    width: 320px;
+    background-color: white;
+    border: solid transparent;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px;
+    padding-bottom: 40px;
+    margin: auto
+}
+
+.content {
+    text-align: center;
+    width: 288px;
+}
+
+.outfit-font {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.headline {
+    color: #1F314F;
+    width: 285px;
+    font-weight: 900;
+    font-size: 1.5em;
+    font-style: bold;
+    line-height: 120%;
+    letter-spacing: 0;
+    display: inline-block;
+}
+
+.action {
+    color: #68778D;
+    width: 270px;
+    font-weight: 500;
+    font-size: 1em;
+    font-style: normal;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    display: inline-block;
+    margin: 0;
+}
+
+.qr-image {
+    border: solid transparent;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 288px;
+    
+}
