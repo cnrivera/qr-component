@@ -9,7 +9,7 @@ body {
 
 .wrapper {
     width: 320px;
-    background-color: white;
+    background-color: hsl(0, 0%, 100%);
     border: solid transparent;
     border-radius: 20px;
     display: flex;
@@ -32,9 +32,9 @@ body {
 }
 
 .headline {
-    color: #1F314F;
+    color: hsl(218, 44%, 22%);
     width: 285px;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.5em;
     font-style: bold;
     line-height: 120%;
@@ -43,9 +43,9 @@ body {
 }
 
 .action {
-    color: #68778D;
+    color: hsl(216, 15%, 48%);
     width: 270px;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1em;
     font-style: normal;
     line-height: 140%;
